@@ -1,7 +1,7 @@
 ---
 name: Pull Request Template
 about: Default pull request template
-title: '<type>[(optional scope)]: <description>'
+title: 'type(optional scope): description'
 labels: ''
 assignees: ''
 ---
